@@ -2,7 +2,7 @@
 A Python chat application
 
 ### Prerequisites
-This version of the code compiles successfully on Windows 10 and Ubuntu-18.04. Should also compile on other variants of linux and Windows. Other operating systems are currently not supported.
+This version of the code runs successfully on Windows 10 and Ubuntu-18.04. Should also compile on other variants of linux and Windows. Other operating systems are currently not supported.
 
 ### How to use:
 * Download all files. You'll also need Python 3 interpreter installed. (Download Python 3 from [here](https://www.python.org/downloads/))
