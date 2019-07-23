@@ -26,7 +26,7 @@ Once a server is running, it will accept clients which can send and receive mess
 ```
 $ py server.py
 > Accepted new connection from 127.0.0.1:41202 username: tester1
-> Accepted new connection from 127.0.0.1:41202 username: tester2
+> Accepted new connection from 127.0.0.1:41203 username: tester2
 > Received message from tester1: Hello
 > Received message from tester2: How are you?
 ```
