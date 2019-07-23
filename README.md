@@ -23,30 +23,30 @@ Once a server is running, it will accept clients which can send and receive mess
 ### Example:
 
 #### Server-side:
-'''
+```
 $ py server.py
 > Accepted new connection from 127.0.0.1:41202 username: tester1
 > Accepted new connection from 127.0.0.1:41202 username: tester2
 > Received message from tester1: Hello
 > Received message from tester2: How are you?
-'''
+```
 
 #### client 1:
-'''
+```
 $ py client.py
 > Username: tester1
 > tester1 >> Hello
 > tester1 >>
 > tester2 > How are you?
 > 
-'''
+```
 
 #### client 2:
-'''
+```
 $ py client.py
 > Username: tester2
 > tester2 >>
 > tester1 > Hello
 > How are you?
 > tester2 >>
-'''
+```
